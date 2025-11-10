@@ -7,4 +7,4 @@ Fuentes:
 - https://www.inmujeres.gob.mx
 - https://www.unicef.org/mexico
 
-URL del sitio publicado: [https://tuusuario.github.io/cultura-paz-tu-nombre](https://tuusuario.github.io/cultura-paz-tu-nombre)
+URL del sitio publicado: https://mauvenlun-sketch.github.io/cultura-paz-Venus/
